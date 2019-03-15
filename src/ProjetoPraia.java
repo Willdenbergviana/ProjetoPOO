@@ -18,5 +18,15 @@ public class ProjetoPraia {
         c2.brincar();
         c2.correr(200);
         System.out.println(c2.sorrir());
+
+        Canoa b1 = new Canoa();
+        b1.tamanho = 3.0;
+        b1.largura = 1.5;
+        b1.capacidade = 120;
+        b1.parado();
+
+
+
+
     }
 }
