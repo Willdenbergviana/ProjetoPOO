@@ -8,7 +8,7 @@ public class Canoa {
     }
     void navegando(double km) {
         System.out.println("Navegando... " + km + " KM/H ");
-          
+
     }
 
 }
