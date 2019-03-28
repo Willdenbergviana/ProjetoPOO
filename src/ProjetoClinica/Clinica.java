@@ -4,7 +4,7 @@ public class Clinica {
     public static void main(String args[]){
         Paciente paciente = new Paciente();
         paciente.nome = "Willdenberg";
-        paciente.endereco = "Icoaraci"
+        paciente.endereco = "Icoaraci";
         paciente.numeroCartao = 232323;
 
         Medico medico = new Medico();
